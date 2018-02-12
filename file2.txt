@@ -1,5 +1,3 @@
 This is the second file that has been created.
 
-This is the first change in this file in the feature branch.
-
-A new addition on 13 feb.
+This is the first chane in this file in the feature branch.
